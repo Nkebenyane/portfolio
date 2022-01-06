@@ -451,9 +451,15 @@ body {
 }
 
 .card-title {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 300;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+.card-detail {
+    padding-top: 10px;
+    border-top: solid 1px rgb(238, 234, 234);
+    margin-top: 10px;
 }
 
 
